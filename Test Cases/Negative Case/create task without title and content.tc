@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>create task without title and content</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0eede23-9475-43cf-8c37-1f60c532db31</testCaseGuid>
+</TestCaseEntity>
